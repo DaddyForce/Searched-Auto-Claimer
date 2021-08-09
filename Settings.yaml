@@ -1,0 +1,5 @@
+---
+threads: 1
+platform: WIN
+gatherXUIDsOnStartup: true
+gatherTokensOnStartup: true
